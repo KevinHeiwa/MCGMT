@@ -3,8 +3,7 @@ This repository contains a preliminary version of MCGMark, a framework of an enc
 ## Structure
 |         **Folder**         |                        **Description**                        |
 |:--------------------------:|:-------------------------------------------------------:|
-|            Data            |             Data of Part 1 & Part 2 in Section 3                |
-|       Prompt Dataset       |        Include 406 malicious code generation tasks       |
+|            Data            |             Data of Part 1 & Part 2 in Empirical Study                    |
 |         watermark          | A LLM online watermark against LLM malicious code generation  |
 
 ## Data
